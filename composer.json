@@ -1,0 +1,17 @@
+{
+    "name": "battis/path",
+    "description": "Path manipulation toolbox",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Battis\\Path\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Seth Battis",
+            "email": "seth@battis.net"
+        }
+    ],
+    "require": {}
+}
